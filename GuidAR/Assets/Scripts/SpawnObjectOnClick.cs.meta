@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c0e5a29229bfdb34493c65f3f8099f01
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aRObject: {fileID: 7709943477739551483, guid: d380169724ce1b64dbc575e3e70c269f, type: 3}
+  - snare: {fileID: 4576225323976186027, guid: b411fc113c0a7ac449ad633597e35605, type: 3}
+  - crash: {fileID: 735018183625384255, guid: 3313188c84e04c34c9838df1571a4e28, type: 3}
+  - basedrum: {fileID: 6580332456626524138, guid: 91507efdb521fdc49a292899de0715dc, type: 3}
+  - basetom: {fileID: 7203926087194830477, guid: d3ce50228c04d4b40b4695dd40461857, type: 3}
+  - objectPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

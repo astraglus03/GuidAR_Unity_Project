@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ManoMotion ARFoundation/Scenes/ManoMotionSDKProFeatures.unity
+    guid: 2e8ecbb9ea2e340009ac8d7dd6fbd854
+  - enabled: 0
+    path: Assets/Scenes/InteractionsManoMotion.unity
+    guid: 8347d7af18b974c47af13c22b185be93
+  - enabled: 1
+    path: Assets/Scenes/GrapInteraction.unity
+    guid: 343d33f8fb762e344bd564a317a01dd0
+  - enabled: 0
+    path: Assets/Scenes/PlaneTracking.unity
+    guid: 75abbabebb3055641a5c6e2db36a5314
+  - enabled: 0
+    path: Assets/Scenes/BodyTracking.unity
+    guid: 036c5904e82e74379b3d2a61bc725108
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 3238b2af79decc14fa21aae7dcc3121d, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: d0b6231614b924c3980a751d4cdf4346, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 276d7a9afe3a50f4190b7b0daa2cca80, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f05bb6b6db54b9f40b918cc83fdffd93, type: 2}
